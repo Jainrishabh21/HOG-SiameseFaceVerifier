@@ -12,8 +12,8 @@ Capture face images via webcam and save them in class-wise folders.
 ### ✅ Phase 2: Face Detection
 Custom face detection using **HOG features** and **sliding window** with Gaussian pyramids.
 
-### ✅ Phase 3: 
-Auto face collector from webcam
+### ✅ Phase 3: Capture faces
+Auto face collector from webcam. Capture and save face images from webcam
 
 ### ✅ Phase 4: Siamese Model Design
 Deep learning model that learns face similarity using **contrastive learning**.
