@@ -1,5 +1,4 @@
 # Phase 7: Training the Siamese Model with Contrastive Loss and Preprocessing
-# File: face_verification_project/model/train_model.py
 
 import torch
 import torch.nn as nn
