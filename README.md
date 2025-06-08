@@ -43,3 +43,6 @@ Detection: Detect faces using HOG features + pyramid sliding windows.
 Training: Train a Siamese network on positive/negative face pairs.
 Verification: Compute embeddings of two faces, measure Euclidean distance.
 Decision: If distance < threshold, label as "same person".
+
+
+## Switch to KYC_IntelliScan branch for E KYC verification model
