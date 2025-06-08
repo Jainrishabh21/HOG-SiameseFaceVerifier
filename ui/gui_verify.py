@@ -26,7 +26,7 @@ transform = transforms.Compose([
 class FaceVerificationApp:
     def __init__(self, master):
         self.master = master
-        master.title("Face Verification App")
+        master.title("HOG-SiameseFaceVerifier")
 
         self.label = tk.Label(master, text="Select two face images to verify:")
         self.label.pack()
