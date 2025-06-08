@@ -1,4 +1,7 @@
 # 🔐 E-Video KYC System
+Built a custom E-KYC system using HOG-based face detection, Siamese neural networks, and OCR for real-time identity verification via webcam and ID card.
+
+---
 
 A complete Python-based E-KYC (Know Your Customer) verification system that performs:
 
